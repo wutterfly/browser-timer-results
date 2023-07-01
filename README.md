@@ -173,8 +173,8 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [ ] unisoliert [Datei](./freetext/chrome/)
 
 #### Chromium
-- [ ] isoliert [Datei](./freetext/chromium/)
-- [ ] unisoliert [Datei](./freetext/chromium/)
+- [x] isoliert [Datei](./freetext/chromium/isolated/complete.csv)
+- [x] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
 
 #### Edge
 - [ ] isoliert [Datei](./freetext/edge/)
@@ -190,7 +190,6 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 #### Tor
 - [ ] isoliert [Datei](./freetext/tor/)
-- [ ] unisoliert [Datei](./freetext/tor/)
 
 #### Safari
 - [ ] isoliert [Datei](./freetext/safari/)
