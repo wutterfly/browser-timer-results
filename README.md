@@ -129,26 +129,26 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 #### Chrome 
 - [x] isoliert [Datei](./password/chrome/password_data_chrome_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/chrome/password_data_chrome_unisolated/full_data_set.csv)
-- [ ] isoliert (warm up) [Datei](./password/chrome/password_data_chrome_isolated_warmup/full_data_set.csv)
-- [ ] unisoliert (warm up) [Datei](./password/chrome/password_data_chrome_unisolated_warmup/full_data_set.csv)
+- [x] isoliert (warm up) [Datei](./password/chrome/password_data_chrome_isolated_warmup/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/chrome/password_data_chrome_unisolated_warmup/full_data_set.csv)
 
 #### Chromium
 - [x] isoliert [Datei](./password/chromium/password_data_chromium_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/chromium/password_data_chromium_unisolated/full_data_set.csv)
 - [ ] isoliert (warm up) [Datei](./password/chromium/password_data_chromium_isolated_warmup/full_data_set.csv)
-- [ ] unisoliert (warm up) [Datei](./password/chromium/password_data_chromium_unisolated_warmup/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/chromium/password_data_chromium_unisolated_warmup/full_data_set.csv)
 
 #### Edge
 - [x] isoliert [Datei](./password/edge/password_data_edge_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/edge/password_data_edge_unisolated/full_data_set.csv)
-- [ ] isoliert (warm up) [Datei](./password/edge/password_data_edge_isolated_warmup/full_data_set.csv)
+- [x] isoliert (warm up) [Datei](./password/edge/password_data_edge_isolated_warmup/full_data_set.csv)
 - [ ] unisoliert (warm up) [Datei](./password/edge/password_data_edge_unisolated_warmup/full_data_set.csv)
 
 #### Firefox
 - [x] isoliert [Datei](./password/firefox/password_data_firefox_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/firefox/password_data_firefox_unisolated/full_data_set.csv)
-- [ ] isoliert (warm up) [Datei](./password/firefox/password_data_firefox_isolated_warmup/comfull_data_setplete.csv)
-- [ ] unisoliert (warm up) [Datei](./password/firefox/password_data_firefox_unisolated_warmup/full_data_set.csv)
+- [x] isoliert (warm up) [Datei](./password/firefox/password_data_firefox_isolated_warmup/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/firefox/password_data_firefox_unisolated_warmup/full_data_set.csv)
 
 #### Firefox ResistFingerprinting (RF)
 - [ ] isoliert (warm up) [Datei](./password/firefox_resistFingerprinting/firefox_isolated_resistFingerprinting_true/full_data_set)
@@ -177,7 +177,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
 
 #### Edge
-- [ ] isoliert [Datei](./freetext/edge/)
+- [x] isoliert [Datei](./freetext/edge/)
 - [ ] unisoliert [Datei](./freetext/edge/)
 
 #### Firefox
