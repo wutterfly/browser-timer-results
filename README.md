@@ -135,14 +135,14 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 #### Chromium
 - [x] isoliert [Datei](./password/chromium/password_data_chromium_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/chromium/password_data_chromium_unisolated/full_data_set.csv)
-- [ ] isoliert (warm up) [Datei](./password/chromium/password_data_chromium_isolated_warmup/full_data_set.csv)
+- [x] isoliert (warm up) [Datei](./password/chromium/password_data_chromium_isolated_warmup/full_data_set.csv)
 - [x] unisoliert (warm up) [Datei](./password/chromium/password_data_chromium_unisolated_warmup/full_data_set.csv)
 
 #### Edge
 - [x] isoliert [Datei](./password/edge/password_data_edge_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/edge/password_data_edge_unisolated/full_data_set.csv)
 - [x] isoliert (warm up) [Datei](./password/edge/password_data_edge_isolated_warmup/full_data_set.csv)
-- [ ] unisoliert (warm up) [Datei](./password/edge/password_data_edge_unisolated_warmup/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/edge/password_data_edge_unisolated_warmup/full_data_set.csv)
 
 #### Firefox
 - [x] isoliert [Datei](./password/firefox/password_data_firefox_isolated/full_data_set.csv)
@@ -156,7 +156,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 #### Tor
 - [x] unisoliert [Datei](./password/tor/password_data_tor_unisolated/full_data_set.csv)
-- [ ] unisoliert (warm up) [Datei](./password/tor/password_data_tor_unisolated_warmup/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/tor/password_data_tor_unisolated_warmup/full_data_set.csv)
 
 #### Safari
 - [x] isoliert [Datei](./password/safari/password_data_safari_isolated/full_data_set.csv)
