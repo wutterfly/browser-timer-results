@@ -178,7 +178,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 #### Edge
 - [x] isoliert [Datei](./freetext/edge/)
-- [ ] unisoliert [Datei](./freetext/edge/)
+- [x] unisoliert [Datei](./freetext/edge/)
 
 #### Firefox
 - [ ] isoliert [Datei](./freetext/firefox/)
