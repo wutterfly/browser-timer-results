@@ -151,7 +151,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert (warm up) [Datei](./password/firefox/password_data_firefox_unisolated_warmup/full_data_set.csv)
 
 #### Firefox ResistFingerprinting (RF)
-- [ ] isoliert (warm up) [Datei](./password/firefox_resistFingerprinting/firefox_isolated_resistFingerprinting_true/full_data_set)
+- [x] isoliert (warm up) [Datei](./password/firefox_resistFingerprinting/firefox_isolated_resistFingerprinting_true/full_data_set)
 - [x] unisoliert (warm up) [Datei](./password/firefox_resistFingerprinting/firefox_unisolated_resistFingerprinting_true/full_data_set.csv)
 
 #### Tor
@@ -166,19 +166,19 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 
 ## Frei-Text
-- braucht bis zu 14 Stunden
+- braucht ca. 5x 6 Stunden
 
 #### Chrome
-- [ ] isoliert [Datei](./freetext/chrome/)
+- [x] isoliert [Datei](./freetext/chrome/)
 - [ ] unisoliert [Datei](./freetext/chrome/)
 
 #### Chromium
-- [x] isoliert [Datei](./freetext/chromium/isolated/complete.csv)
-- [x] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
+- [ ] isoliert [Datei](./freetext/chromium/isolated/complete.csv)
+- [ ] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
 
 #### Edge
-- [x] isoliert [Datei](./freetext/edge/)
-- [x] unisoliert [Datei](./freetext/edge/)
+- [ ] isoliert [Datei](./freetext/edge/)
+- [ ] unisoliert [Datei](./freetext/edge/)
 
 #### Firefox
 - [ ] isoliert [Datei](./freetext/firefox/)
