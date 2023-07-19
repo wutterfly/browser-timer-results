@@ -48,8 +48,8 @@ Ein Vergleich zwischen gleichzeitig gesammelten Input-Events im Browser und nati
 
 - [x] natürlicher Nutzer [Datei](./browser/safari/complete.csv)
 - [x] maschineller Nutzer [Datei](./browser/safari/complete.csv)
-- [ ] natürlicher Nutzer (Key Up and Down) [Datei](./browser_extended/safari/complete.csv)
-- [ ] maschineller Nutzer (Key Up and Down) [Datei](./browser_extended/safari/complete.csv)
+- [x] natürlicher Nutzer (Key Up and Down) [Datei](./browser_extended/safari3/complete.csv)
+- [x] maschineller Nutzer (Key Up and Down) [Datei](./browser_extended/safari3/complete.csv)
 
 
 
@@ -182,11 +182,11 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 #### Firefox
 - [ ] isoliert [Datei](./freetext/firefox/)
-- [ ] unisoliert [Datei](./freetext/firefox/)
+- [x] unisoliert [Datei](./freetext/firefox/)
 
 #### Firefox ResistFingerprinting (RF)
 - [ ] isoliert [Datei](./freetext/firefox/)
-- [ ] unisoliert [Datei](./freetext/firefox/)
+- [x] unisoliert [Datei](./freetext/firefox/)
 
 #### Tor
 - [x] unisoliert [Datei](./freetext/tor/)
