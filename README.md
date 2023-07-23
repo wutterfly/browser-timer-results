@@ -177,7 +177,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
 
 #### Edge
-- [ ] isoliert [Datei](./freetext/edge/)
+- [x] isoliert [Datei](./freetext/edge/)
 - [ ] unisoliert [Datei](./freetext/edge/)
 
 #### Firefox
@@ -185,7 +185,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert [Datei](./freetext/firefox/)
 
 #### Firefox ResistFingerprinting (RF)
-- [ ] isoliert [Datei](./freetext/firefox/)
+- [x] isoliert [Datei](./freetext/firefox/)
 - [x] unisoliert [Datei](./freetext/firefox/)
 
 #### Tor
