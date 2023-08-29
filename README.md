@@ -159,8 +159,8 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert (warm up) [Datei](./password/tor/password_data_tor_unisolated_warmup/full_data_set.csv)
 
 #### Safari
-- [x] isoliert [Datei](./password/safari/password_data_safari_isolated/full_data_set.csv)
-- [x] unisoliert [Datei](./password/safari/password_data_safari_unisolated/full_data_set.csv)
+- [ ] isoliert [Datei](./password/safari/password_data_safari_isolated/full_data_set.csv)
+- [ ] unisoliert [Datei](./password/safari/password_data_safari_unisolated/full_data_set.csv)
 - [ ] isoliert  (warm up) [Datei](./password/safari/password_data_safari_isolated_warm_up/full_data_set.csv)
 - [ ] unisoliert (warm up) [Datei](./password/safari/password_data_safari_unisolated_warm_up/full_data_set.csv)
 
