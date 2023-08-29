@@ -1,5 +1,7 @@
 text-timing-data*
 password-timing-data*
+full_data_set.csv
+
 
 /password/*/*/combine.ipynb
 /password/*/*/password_data_rs.csv
@@ -8,10 +10,11 @@ password-timing-data*
 *_rs.json
 
 
-box.jpeg
+/timer/*/box.jpeg
+
 fig.jpeg
 
-full_data_set.csv
+/full_data_set.csv
 
 *_js.csv
 *_rs.csv
