@@ -161,8 +161,8 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 #### Safari
 - [x] isoliert [Datei](./password/safari/password_data_safari_isolated/full_data_set.csv)
 - [x] unisoliert [Datei](./password/safari/password_data_safari_unisolated/full_data_set.csv)
-- [x] isoliert  (warm up) [Datei](./password/safari/password_data_safari_isolated_warm_up/full_data_set.csv)
-- [x] unisoliert (warm up) [Datei](./password/safari/password_data_safari_unisolated_warm_up/full_data_set.csv)
+- [ ] isoliert  (warm up) [Datei](./password/safari/password_data_safari_isolated_warm_up/full_data_set.csv)
+- [ ] unisoliert (warm up) [Datei](./password/safari/password_data_safari_unisolated_warm_up/full_data_set.csv)
 
 
 ## Frei-Text
@@ -178,10 +178,10 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 #### Edge
 - [x] isoliert [Datei](./freetext/edge/)
-- [ ] unisoliert [Datei](./freetext/edge/)
+- [x] unisoliert [Datei](./freetext/edge/)
 
 #### Firefox
-- [ ] isoliert [Datei](./freetext/firefox/)
+- [x] isoliert [Datei](./freetext/firefox/)
 - [x] unisoliert [Datei](./freetext/firefox/)
 
 #### Firefox ResistFingerprinting (RF)
