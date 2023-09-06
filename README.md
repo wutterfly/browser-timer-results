@@ -159,38 +159,35 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 - [x] unisoliert (warm up) [Datei](./password/tor/password_data_tor_unisolated_warmup/full_data_set.csv)
 
 #### Safari
-- [ ] isoliert [Datei](./password/safari/password_data_safari_isolated/full_data_set.csv)
-- [ ] unisoliert [Datei](./password/safari/password_data_safari_unisolated/full_data_set.csv)
-- [ ] isoliert  (warm up) [Datei](./password/safari/password_data_safari_isolated_warm_up/full_data_set.csv)
-- [ ] unisoliert (warm up) [Datei](./password/safari/password_data_safari_unisolated_warm_up/full_data_set.csv)
+- [x] isoliert  (warm up) [Datei](./password/safari/password_data_safari_isolated_warm_up/full_data_set.csv)
+- [x] unisoliert (warm up) [Datei](./password/safari/password_data_safari_unisolated_warm_up/full_data_set.csv)
 
 
 ## Frei-Text
 - braucht ca. 5x 6 Stunden
 
 #### Chrome
-- [x] isoliert [Datei](./freetext/chrome/)
-- [x] unisoliert [Datei](./freetext/chrome/)
+- [x] isoliert [Datei](./freetext/chrome/isolated/complete.csv)
+- [x] unisoliert [Datei](./freetext/chrome/unisolated/complete.csv)
 
 #### Chromium
 - [x] isoliert [Datei](./freetext/chromium/isolated/complete.csv)
 - [x] unisoliert [Datei](./freetext/chromium/unisolated/complete.csv)
 
 #### Edge
-- [x] isoliert [Datei](./freetext/edge/)
-- [x] unisoliert [Datei](./freetext/edge/)
+- [x] isoliert [Datei](./freetext/edge/isolated/complete.csv)
+- [x] unisoliert [Datei](./freetext/edge/unisolated/complete.csv)
 
 #### Firefox
-- [x] isoliert [Datei](./freetext/firefox/)
-- [x] unisoliert [Datei](./freetext/firefox/)
+- [x] isoliert [Datei](./freetext/firefox/isolated/complete.csv)
+- [x] unisoliert [Datei](./freetext/firefox/unisolated/complete.csv)
 
 #### Firefox ResistFingerprinting (RF)
-- [x] isoliert [Datei](./freetext/firefox/)
-- [x] unisoliert [Datei](./freetext/firefox/)
+- [x] unisoliert [Datei](./freetext/firefox_rf/unisolated/complete.csv)
 
 #### Tor
-- [x] unisoliert [Datei](./freetext/tor/)
+- [x] unisoliert [Datei](./freetext/tor/unisolated/complete.csv)
 
 #### Safari
-- [ ] isoliert [Datei](./freetext/safari/)
-- [ ] unisoliert [Datei](./freetext/safari/)
+- [x] isoliert [Datei](./freetext/safari/isolated/complete.csv)
+- [x] unisoliert [Datei](./freetext/safari/unisolated/complete.csv)
