@@ -2,7 +2,7 @@ text-timing-data*
 password-timing-data*
 
 
-/password/*/*/combine.ipynb
+
 /password/*/*/password_data_rs.csv
 
 *_js.json
@@ -16,13 +16,13 @@ password-timing-data*
 *_js.csv
 *_rs.csv
 
-/browser/*/combine.ipynb
-/browser_extended/*/combine.ipynb
+
+
 
 *_isolated_browser_timing_data*
 *_unisolated_browser_timing_data*
 
-/timer/*/combine.ipynb
+
 
 isolated_privacy.*
 unisolated_privacy.*
@@ -32,6 +32,6 @@ browser-timer-results/
 free-text-output/
 
 change.ipynb
-combine.ipynb
+
 
 /laptops
