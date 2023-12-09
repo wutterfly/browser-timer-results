@@ -4,7 +4,7 @@ Ergebnisse aus den Apps [browser-timer](https://github.com/wutterfly/browser-tim
 Zwischenergebnisse sind nicht enthalten.
 
 
-# Datensätze
+# DatensätzeW
 
 ## Browser-OS Unterschied
 Ein Vergleich zwischen gleichzeitig gesammelten Input-Events im Browser und nativer Anwendung (Rust).
@@ -165,6 +165,7 @@ Eine Reihe von Input-Events werden im Browser simuliert und zugehörige Zeitstem
 
 ## Frei-Text
 - braucht ca. 5x 6 Stunden
+- zu Analyse werde Nutzer [13, 18, 26] nicht betrachtet 
 
 #### Chrome
 - [x] isoliert [Datei](./freetext/chrome/isolated/complete.csv)
