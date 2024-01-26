@@ -1,0 +1,15 @@
+14: Keys per Minute: 250.26 | Avg Key Down-Up Time: 0.93 | Avg Key Down-Down Time: 178.27 | Pauses: 62.00
+13: Keys per Minute: 225.27 | Avg Key Down-Up Time: 0.92 | Avg Key Down-Down Time: 202.09 | Pauses: 54.00
+12: Keys per Minute: 213.33 | Avg Key Down-Up Time: 0.95 | Avg Key Down-Down Time: 189.58 | Pauses: 66.00
+11: Keys per Minute: 223.01 | Avg Key Down-Up Time: 0.93 | Avg Key Down-Down Time: 191.35 | Pauses: 80.00
+10: Keys per Minute: 196.80 | Avg Key Down-Up Time: 0.92 | Avg Key Down-Down Time: 192.26 | Pauses: 61.00
+9: Keys per Minute: 214.13 | Avg Key Down-Up Time: 0.93 | Avg Key Down-Down Time: 189.32 | Pauses: 58.00
+8: Keys per Minute: 245.94 | Avg Key Down-Up Time: 1.00 | Avg Key Down-Down Time: 185.15 | Pauses: 68.00
+7: Keys per Minute: 246.32 | Avg Key Down-Up Time: 0.96 | Avg Key Down-Down Time: 189.87 | Pauses: 65.00
+6: Keys per Minute: 255.71 | Avg Key Down-Up Time: 1.02 | Avg Key Down-Down Time: 191.49 | Pauses: 56.00
+5: Keys per Minute: 239.54 | Avg Key Down-Up Time: 0.94 | Avg Key Down-Down Time: 186.18 | Pauses: 57.00
+4: Keys per Minute: 263.99 | Avg Key Down-Up Time: 1.02 | Avg Key Down-Down Time: 189.35 | Pauses: 46.00
+3: Keys per Minute: 307.47 | Avg Key Down-Up Time: 1.00 | Avg Key Down-Down Time: 172.64 | Pauses: 27.00
+2: Keys per Minute: 228.55 | Avg Key Down-Up Time: 1.02 | Avg Key Down-Down Time: 195.22 | Pauses: 61.00
+1: Keys per Minute: 283.81 | Avg Key Down-Up Time: 1.01 | Avg Key Down-Down Time: 180.09 | Pauses: 32.00
+0: Keys per Minute: 286.53 | Avg Key Down-Up Time: 0.98 | Avg Key Down-Down Time: 178.69 | Pauses: 58.00
